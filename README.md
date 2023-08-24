@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat project. It comes with a sample voting contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic Hardhat project setup with VsCode IDE. It comes with a sample voting contract.
 
 Try running some of the following tasks:
 
